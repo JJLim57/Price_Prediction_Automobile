@@ -1,10 +1,11 @@
 # Price_Prediction_Automobile
-A simple data science project to perform data preprocessing, data wrangling, correlation analysis, and build a predictive model.
+A simple data science project to perform data preprocessing, data wrangling, correlation analysis, and build a predictive model using linear regression on different attributes to evaluate the effect of correlation.
 ## Things I learned/revised:
 * Data cleaning
 * Data Wrangling
 * Data Correlation Analysis
-* Predictive modelling after correlation analysis
+* Linear Regression Predictive modelling after correlation analysis
+* Model Evaluation through evaluation metrics such as Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, R-Squared Error
 ## Afterthoughts on the project:
 Prior to the project, I have already did a similar projects to this in which I also had to perform preprocessing of data, analyze correlation of attributes and build a machine learning model. Thus, this particular project serves as a revision for me to further 
 practice/refine my data science/analytics skills.
